@@ -10,8 +10,8 @@
     align-items: center;
 }
 .qr-code-card{
-    width: 270px;
-    height: 450px;
+    width: 288px;
+    height: 480px;
     background-color: var(--White);
     border: transparent solid;
     border-radius: 20px;
@@ -20,7 +20,7 @@
     align-items: center;
     padding: 15px;
     padding-bottom: 10px;
-    box-shadow: 0 0 40px rgba(0, 0, 0, 0.105);
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.064);
 }
 .qr-code-img{
     width: 100%;
@@ -30,14 +30,14 @@
     background-size: cover;
     background-repeat: no-repeat;
     border: transparent;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .text{
     margin-top: 15px;
 }
 .text h1{
     color: var(--Dark-blue);
-    font-size: 23px;
+    font-size: 22px;
     font-weight: 700;
     text-align: center;
     font-family: 'Outfit', sans-serif;
